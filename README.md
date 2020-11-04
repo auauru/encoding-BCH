@@ -10,3 +10,4 @@
 
 ### code
 * [BCH_Train_10_30](https://nbviewer.jupyter.org/github/auauru/encoding-BCH/blob/main/Train/BCH_Train_10_30.ipynb)
+* [BCH_Train_11_04_1](https://nbviewer.jupyter.org/github/auauru/encoding-BCH/blob/main/BCH_Train_11_04_1.ipynb)
